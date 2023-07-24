@@ -8,7 +8,7 @@
 ##### pin효과, scrub등을 사용하여 다양하게 구현했습니다.
 
 ### 완성된 site 주소 : [ParallaxEffects][parallaxlink]
-[parallaxlink]: file:///C:/Users/line/Desktop/hoong_works/parallax_Effects/gsap04.html "go parallaxEffects"
+[parallaxlink]: https://dlgnsrb227.github.io/web2023/javascript/parallax/parallaxEffect01.html "go parallaxEffects"
 
 ------------------------------
 ## 사용 스택
