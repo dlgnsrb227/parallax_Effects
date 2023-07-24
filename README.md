@@ -1,7 +1,7 @@
 # Parallax Effects
 -------------------------------
 
-![parallaxEffects 썸네일이미지](/img/mouse_thumb.PNG)
+![parallaxEffects 썸네일이미지](/img/parallax_thumb.PNG)
 
 ##### 마우스의 움직임에 따른 각각의 효과를 만들어놓은 페이지입니다.    
 ##### 여러가지 방법으로 구현했으며 총 4개의 페이지가 있습니다.
